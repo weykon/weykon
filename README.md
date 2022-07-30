@@ -13,3 +13,5 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=weykon&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact)
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
