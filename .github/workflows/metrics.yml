@@ -17,12 +17,12 @@ jobs:
           token: ${{ secrets.FOR_METRICS_TOKEN }}
           config_timezone: 	Hongkong
 
-name: JavaScript or TypeScript snippet of the day
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.code.svg
-  token: ${{ secrets.FOR_METRICS_TOKEN }}
-  base: ""
-  plugin_code: yes
-  plugin_code_languages: javascript, typescript, rust, python
-  plugin_code_load: 400
+      - name: JavaScript or TypeScript snippet of the day
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.code.svg
+          token: ${{ secrets.FOR_METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript, rust, python
+          plugin_code_load: 400
