@@ -17,3 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=weykon&layout=compact&langs_count=8&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&custom_title=Week Time"/>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact)
+
+--- 
+
+![code the day](./metrics.plugin.code.svg)
