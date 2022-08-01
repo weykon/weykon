@@ -1,7 +1,6 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
     # Runs at every 12AM UTC
     - cron: "0 0 * * *"
@@ -11,10 +10,9 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
           BRANCH: "main"
-          # Manual Commit messages - write your own messages here
+          GITHUB_TOKEN: ${{ github.token }}
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
