@@ -13,8 +13,11 @@
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
 ![Typescript](http://img.shields.io/badge/-Typescript-ff69b4?style=flat-square&logo=Typescript&logoColor=white)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact)
+             
+                          
+                          
+             
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact">
 
 --- 
 
