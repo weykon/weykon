@@ -14,5 +14,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BRANCH: "main"
-          GITHUB_TOKEN: ${{ github.token }}
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          GH_TOKEN: ${{ github.token }}
+          COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
