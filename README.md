@@ -13,15 +13,15 @@
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
 ![Typescript](http://img.shields.io/badge/-Typescript-ff69b4?style=flat-square&logo=Typescript&logoColor=white)
-             
-                          
-                          
-             
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact">
+
+**Job:**
+- a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue)
+- game maker with cocos creator (part-time).
+- come to be open source programer.
 
 --- 
 
-![code the day](./metrics.plugin.code.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact">
 
 <!--START_SECTION:waka-->
 
@@ -35,3 +35,5 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![code the day](./metrics.plugin.code.svg)
