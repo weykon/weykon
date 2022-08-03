@@ -2,8 +2,8 @@ name: Work Stats Readme
 
 on:
   schedule:
-    - cron: "0 */4 * * *"
-
+    - cron: "0 0 * * *"
+    
 jobs:
   update-readme:
     name: Update this repo's README
