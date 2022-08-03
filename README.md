@@ -13,6 +13,7 @@
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
 ![Typescript](http://img.shields.io/badge/-Typescript-ff69b4?style=flat-square&logo=Typescript&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python&logoColor=pink)
 
 **Job:**
 - a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue)
