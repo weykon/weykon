@@ -4,7 +4,7 @@
 
 **About me:**
 + I'm currently learning Rust and Machine learning (Python) .
-+ etc. game dev.
++ game maker.
 ---
 
 ### Using and Doing
