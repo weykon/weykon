@@ -18,7 +18,7 @@
 **Job:**
 - a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue)
 - game maker with cocos creator (part-time).
-- come to be open source programer.
+- come to be open-source programmer.
 
 --- 
 
