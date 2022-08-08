@@ -38,3 +38,8 @@ Python       1 hr 29 mins    ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ![code the day](./metrics.plugin.code.svg)
+<div align=center>
+  Welcome! You are the
+  <img src="https://profile-counter.glitch.me/weykon/count.svg">
+  Visitor!
+</div>
