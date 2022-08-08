@@ -1,4 +1,4 @@
-### Hi, Wykon there 👋 <img align="right" position="abo" src="https://komarev.com/ghpvc/?username=weykon">  
+### Hi, Wykon there 👋
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=weykon&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true">
 
@@ -39,7 +39,6 @@ Python       1 hr 29 mins    ▓░░░░░░░░░░░░░░░░
 
 ![code the day](./metrics.plugin.code.svg)
 <div align=center>
-  Welcome! You are the
+  <p> this page visit count </p>
   <img src="https://profile-counter.glitch.me/weykon/count.svg">
-  Visitor!
 </div>
