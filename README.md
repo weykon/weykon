@@ -1,4 +1,4 @@
-### Hi, Wykon there 👋
+### Hi, Wykon there 👋 <img align="right" position="abo" src="https://komarev.com/ghpvc/?username=weykon">  
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=weykon&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true">
 
