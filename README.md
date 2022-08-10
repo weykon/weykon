@@ -50,6 +50,6 @@ EJS          1 hr 4 mins     ▓░░░░░░░░░░░░░░░░
 
 ![code the day](./metrics.plugin.code.svg)
 <div align=center>
-  <p> welcome! you are visitor </p>
+  <p> you are visitor </p>
   <img src="https://profile-counter.glitch.me/weykon/count.svg">
 </div>
