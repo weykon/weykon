@@ -26,8 +26,23 @@
 ![Maya](http://img.shields.io/badge/-Maya-48A0A3?style=flat-square&logo=Maya&logoColor=5AAEAF)
 ![Blender](http://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=5AAEAF)
 
-![Nodejs](http://img.shields.io/badge/-Nodejs-orange?style=flat-square&logo=Nodejs&logoColor=5AAEAF). 
-![React-Native](http://img.shields.io/badge/-React-Native-blue?style=flat-square&logo=React-Native&logoColor=5AAEAF). 
+
+![React-Native](http://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=reactnative&logoColor=5AAEAF) 
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/React-cb3837?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Electron-6DB33F?style=flat-square&logo=electron&logoColor=ffffff)](https://www.electronjs.org/)
+[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![](https://img.shields.io/badge/-Yarn-2496ED?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
+[![](https://img.shields.io/badge/-Webpack-3776AB?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/-MongoDB-6DB33F?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![](https://img.shields.io/badge/-Keras-f05032?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
+[![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
 **Job:**
 - a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue)
