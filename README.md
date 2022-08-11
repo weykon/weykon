@@ -24,7 +24,10 @@
 ![Python](http://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python&logoColor=pink)  
 
 ![Maya](http://img.shields.io/badge/-Maya-48A0A3?style=flat-square&logo=Maya&logoColor=5AAEAF)
+![Blender](http://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=5AAEAF)
 
+![Nodejs](http://img.shields.io/badge/-Nodejs-orange?style=flat-square&logo=Nodejs&logoColor=5AAEAF). 
+![React-Native](http://img.shields.io/badge/-React-Native-blue?style=flat-square&logo=React-Native&logoColor=5AAEAF). 
 
 **Job:**
 - a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue)
