@@ -14,14 +14,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.FOR_METRICS_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
           config_timezone: 	Hongkong
 
       - name: JavaScript or TypeScript snippet of the day
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.code.svg
-          token: ${{ secrets.FOR_METRICS_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
           base: ""
           plugin_code: yes
           plugin_code_languages: javascript, typescript, rust, python
