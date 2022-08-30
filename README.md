@@ -13,7 +13,7 @@
 
 **About me:**
 + I'm currently learning Rust and Machine learning (Python) .
-+ game maker.
++ game maker (game design, it's important for  keeping pure soul of evolution of fun to its fun).
 ---
 
 ### Using and Doing
