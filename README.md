@@ -17,8 +17,9 @@
 ---
 ### Rencently
 - Focus on LeetCode
-  - ![LeetCode Stats](https://leetcard.jacoblin.cool/Weykon?theme=nord&font=PT%20Mono&ext=activity)
-
+<img style="float=left;display=float;" width="30%" src="https://leetcard.jacoblin.cool/Weykon?theme=nord&font=PT%20Mono&ext=activity&animation=true">
+<img style="float=right;display=float;" width="30%" src="https://leetcard.jacoblin.cool/weykon?theme=nord&font=PT%20Mono&ext=activity&site=cn&animation=true">  
+  
 - Focus on My Blog
 
 ### Using and Doing
