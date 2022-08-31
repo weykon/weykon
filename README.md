@@ -15,6 +15,10 @@
 + I'm currently learning Rust and Machine learning (Python) .
 + game maker (game design, it's important for  keeping pure soul of evolution of fun to its fun).
 ---
+### Rencently
+- Focus on LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Weykon?theme=nord&font=PT%20Mono&ext=activity)
+- Focus on My Blog
 
 ### Using and Doing
 
