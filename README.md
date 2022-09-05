@@ -17,8 +17,24 @@
 ---
 ### Rencently
 - Focus on LeetCode
-<img style="float=left;display=float;" width="30%" src="https://leetcard.jacoblin.cool/Weykon?theme=nord&font=PT%20Mono&ext=activity&animation=true">
-<img style="float=right;display=float;" width="30%" src="https://leetcard.jacoblin.cool/weykon?theme=nord&font=PT%20Mono&ext=activity&site=cn&animation=true">  
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img width="250px" src="https://leetcard.jacoblin.cool/Weykon?theme=nord&font=PT%20Mono&ext=activity&animation=true" />
+				<br/>
+				<font color="AAAAAA" align="center">Global</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img width="250px" src="https://leetcard.jacoblin.cool/weykon?theme=nord&font=PT%20Mono&ext=activity&site=cn&animation=true" />
+				<br/>
+        <font color="AAAAAA" align="center">CN</font> 
+			</center>
+		</td>
+	</tr>
+</table>
   
 - Focus on My Blog
 
@@ -56,7 +72,7 @@
 - come to be open-source programmer.
 
 --- 
-
+### Language Using
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact">
 
 <!--START_SECTION:waka-->
@@ -70,6 +86,9 @@ Other        3 hrs 53 mins   ██▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ![code the day](./metrics.plugin.code.svg)
+
+--- 
+
 <div align=center>
   <p> you are visitor </p>
   <img src="https://profile-counter.glitch.me/weykon/count.svg">
