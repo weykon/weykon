@@ -43,7 +43,9 @@
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
 ![Typescript](http://img.shields.io/badge/-Typescript-ff69b4?style=flat-square&logo=Typescript&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python&logoColor=pink)  
+![Python](http://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python&logoColor=pink)
+![GLSL](http://img.shields.io/badge/-GLSL-purple?style=flat-square&logo=GLSL&logoColor=orange)  
+
 
 ![Maya](http://img.shields.io/badge/-Maya-48A0A3?style=flat-square&logo=Maya&logoColor=5AAEAF)
 ![Blender](http://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=5AAEAF)
