@@ -1,7 +1,7 @@
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
 <h3 align=center>
-  Welcome to Weykon's profile!  
+  Welcome to Weykon's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -36,7 +36,7 @@
 	</tr>
 </table>
   
-- Focus on My Blog
+- Focus on My [Blog](https://weykon.github.io/)
 
 ### Using and Doing
 
