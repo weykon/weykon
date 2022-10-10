@@ -38,6 +38,8 @@
   
 - Focus on My [Blog](https://weykon.github.io/)
 
+- Focus on English and Draw.
+
 ### Using and Doing
 
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
