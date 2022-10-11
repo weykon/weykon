@@ -73,7 +73,7 @@
 **Job:**
 - a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue)
 - game maker (unity, cocos creator).
-- come to be open-source programmer.
+- come to be open-source programmer. (✅I finished two little things, as git-push-url and window-zen-mode, more info check on the repo in this github)
 
 --- 
 ### Language Using
