@@ -73,7 +73,7 @@
 [![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
 **Job:**
-- a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue)
+- a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue) , hope to be a full-stack engineer.
 - game maker (unity, cocos creator).
 - come to be open-source programmer. (✅I finished two little things, as git-push-url and window-zen-mode, more info check on the repo in this github)
 
