@@ -14,6 +14,8 @@
 **About me:**
 + I'm currently learning Rust and Machine learning (Python) .
 + game maker (game design, it's important for  keeping pure soul of evolution of fun to its fun).
++ rencently, be immersed in Discord::TypeScript Community::help-typescript channel for answering questions.
+
 ---
 ### Rencently
 - Focus on LeetCode
