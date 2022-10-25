@@ -40,7 +40,7 @@
   
 - Focus on My [Blog](https://weykon.github.io/)
 
-- Focus on English and Draw.
+- Focus on English and Painting.
 
 ### Using and Doing
 
