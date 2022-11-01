@@ -18,7 +18,7 @@
 
 ---
 ### Rencently
-- Focus on LeetCode
+- Focus on LeetCode and [Exercism](https://exercism.org/profiles/weykon)
 <table rules="none" align="center">
 	<tr>
 		<td>
