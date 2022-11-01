@@ -79,7 +79,7 @@
 
 
 |  package | version | download |
-|  ----  | ---- | ---- | 
+|  :---: | :---: | :---: | 
 | git-push-url |  ![](https://img.shields.io/npm/v/git-push-url?color=green&label=git-push-url&logoColor=green) |![](https://img.shields.io/npm/dy/git-push-url?color=green) |
 | window-zen-code | ![](https://img.shields.io/visual-studio-marketplace/v/Weykon.window-zen-mode?color=green) | ![](https://img.shields.io/visual-studio-marketplace/d/Weykon.window-zen-mode?color=green) |
 
