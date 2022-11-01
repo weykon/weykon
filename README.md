@@ -75,7 +75,18 @@
 **Job:**
 - a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue) , hope to be a full-stack engineer.
 - game maker (unity, cocos creator).
-- come to be open-source programmer. (✅I finished two little things, as git-push-url and window-zen-mode, more info check on the repo in this github)
+- come to be open-source programmer. (✅I finished two little things, as git-push-url and window-zen-mode, more info check on the repo in this github)  
+
+
+|  package | version | download |
+|  ----  | ---- | ---- | 
+| git-push-url |  ![](https://img.shields.io/npm/v/git-push-url?color=green&label=git-push-url&logoColor=green) |![](https://img.shields.io/npm/dy/git-push-url?color=green) |
+| window-zen-code | ![](https://img.shields.io/visual-studio-marketplace/v/Weykon.window-zen-mode?color=green) | ![](https://img.shields.io/visual-studio-marketplace/d/Weykon.window-zen-mode?color=green) |
+
+
+
+
+
 
 --- 
 ### Language Using
