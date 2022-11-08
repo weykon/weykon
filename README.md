@@ -7,7 +7,11 @@
 
 <p align="center">
   <a herf="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=30&height=250px&width=500px&pause=500&color=15C800&background=000000&center=true&vCenter=true&lines=i+love+the+code+world+!"></a>
+		<h4 align=center>✍️blog: www.weykon.com</h4>
 </p>
+
+<br>
+<br>
 
 <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=weykon&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true">
 
