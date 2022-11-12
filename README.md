@@ -117,7 +117,10 @@ Other        1 hr 22 mins    █░░░░░░░░░░░░░░░░
 <div align=center>
   <p> you are visitor </p>
   <img src="https://profile-counter.glitch.me/weykon/count.svg">
+<br>
+  <img width="250px" src="https://netease-recent-profile.vercel.app/?id=261511375&type=1&number=3&show_percent=1"/>
 </div>
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=261511375&type=1)](https://netease-recent-profile.vercel.app/?id=261511375&type=1)
+
+
 
