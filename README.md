@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a herf="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=30&height=250px&width=500px&pause=500&color=15C800&background=000000&center=true&vCenter=true&lines=i+love+the+code+world+!"></a>
+  <a herf="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=30&height=70px&width=300px&pause=500&color=15C800&background=00000000&center=true&vCenter=true&lines=i+love+the+code+world+!"></a>
 		<h4 align=center>✍️blog: <a href="https://weykon.com" target="_blank">weykon.com</a></h4>
 </p>
 
