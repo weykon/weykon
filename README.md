@@ -44,7 +44,7 @@
 	</tr>
 </table>
   
-- Focus on My [Blog](https://weykon.github.io/)
+- Focus on My [Blog](https://weykon.com)
 
 - Focus on English and Painting.
 
