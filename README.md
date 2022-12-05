@@ -14,8 +14,7 @@
 
 <br>
 <br>
-
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=weykon&theme=solarized-light&show_icons=true&count_private=true&include_all_commits=true">
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=weykon&count_private=true&include_all_commits=true&show_icons=true">
 
 **About me:**
 + I'm currently learning Rust and Machine learning (Python) .
@@ -96,8 +95,10 @@
 
 --- 
 ### Language Using
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact">
 
+### Code Week
 <!--START_SECTION:waka-->
 
 ```text
