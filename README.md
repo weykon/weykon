@@ -87,7 +87,7 @@
 |  :---: | :---: | :---: | 
 | [git-push-url](https://www.npmjs.com/package/git-push-url) |  ![](https://img.shields.io/npm/v/git-push-url?color=green&label=git-push-url&logoColor=green) |![](https://img.shields.io/npm/dy/git-push-url?color=green) |
 | [window-zen-code](https://marketplace.visualstudio.com/items?itemName=Weykon.window-zen-mode) | ![](https://img.shields.io/visual-studio-marketplace/v/Weykon.window-zen-mode?color=green) | ![](https://img.shields.io/visual-studio-marketplace/d/Weykon.window-zen-mode?color=green) |
-| [react-native-png](https://www.npmjs.com/package/react-native-png) | ![](https://img.shields.io/npm/v/react-native-png?color=green&label=git-push-url&logoColor=pink) | ![](https://img.shields.io/npm/dy/react-native-png?color=green) |
+| [react-native-png](https://www.npmjs.com/package/react-native-png) | ![](https://img.shields.io/npm/v/react-native-png?color=green&label=react-native-png&logoColor=pink) | ![](https://img.shields.io/npm/dy/react-native-png?color=green) |
 
 --- 
 ### Language Using
