@@ -53,6 +53,7 @@
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 ![Haskell](http://img.shields.io/badge/-Haskell-white?style=flat-square&logo=Haskell&logoColor=purple)
 ![Zig](http://img.shields.io/badge/-Zig-222222?style=flat-square&logo=Zig&logoColor=orange)
+![Swift](http://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=white)
 ![C#](http://img.shields.io/badge/-Csharp-334433?style=flat-square&logo=Csharp&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
 ![Typescript](http://img.shields.io/badge/-Typescript-ff69b4?style=flat-square&logo=Typescript&logoColor=white)
