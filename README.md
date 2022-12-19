@@ -102,7 +102,7 @@
 --- 
 ### Language Using
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weykon&layout=compact&langs_count=10">
 
 ### Code Week
 <!--START_SECTION:waka-->
