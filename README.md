@@ -64,9 +64,10 @@
 ![Python](http://img.shields.io/badge/-Python-purple?style=flat-square&logo=Python&logoColor=pink)
 ![GLSL](http://img.shields.io/badge/-GLSL-purple?style=flat-square&logo=GLSL&logoColor=orange)  
 
-
+![VSCode](http://img.shields.io/badge/-VisualStudioCode-orange?style=flat-square&logo=VisualStudioCode&logoColor=5AAEAF)
 ![Maya](http://img.shields.io/badge/-Maya-48A0A3?style=flat-square&logo=Maya&logoColor=5AAEAF)
 ![Blender](http://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=5AAEAF)
+![Rider](http://img.shields.io/badge/-Rider-48A0A3?style=flat-square&logo=Rider&logoColor=5AAEAF)
 
 
 ![React-Native](http://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=reactnative&logoColor=5AAEAF) 
@@ -85,6 +86,7 @@
 [![](https://img.shields.io/badge/-Keras-f05032?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+
 
 **Job:**
 - a front-end engineer. ![](https://img.shields.io/badge/%20-React-blue) , hope to be a full-stack engineer.
