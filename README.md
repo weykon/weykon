@@ -119,7 +119,7 @@ JSON            1 hr 3 mins     ▓░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ![code the day](./metrics.plugin.code.svg)
-
+![](https://github-profile-trophy.vercel.app/?username=weykon&theme=flat)
 --- 
 
 <div align=center>
