@@ -99,7 +99,7 @@
 | [git-push-url](https://www.npmjs.com/package/git-push-url) |  ![](https://img.shields.io/npm/v/git-push-url?color=green&label=git-push-url&logoColor=green) |![](https://img.shields.io/npm/dy/git-push-url?color=green) |
 | [window-zen-code](https://marketplace.visualstudio.com/items?itemName=Weykon.window-zen-mode) | ![](https://img.shields.io/visual-studio-marketplace/v/Weykon.window-zen-mode?color=green) | ![](https://img.shields.io/visual-studio-marketplace/d/Weykon.window-zen-mode?color=green) |
 | [react-native-png](https://www.npmjs.com/package/react-native-png) | ![](https://img.shields.io/npm/v/react-native-png?color=green&label=react-native-png&logoColor=pink) | ![](https://img.shields.io/npm/dy/react-native-png?color=green) |
-| [new-man-macOS-app](https://github.com/weykon/new-man) | ![](https://img.shields.io/github/v/release/weykon/new-man) | [release-v0.0.2](https://github.com/weykon/new-man/releases) |
+| [new-man-macOS-app](https://github.com/weykon/new-man) | ![](https://img.shields.io/github/v/release/weykon/new-man) | [release-page](https://github.com/weykon/new-man/releases) |
 
 --- 
 ### Language Using
