@@ -46,7 +46,7 @@
   
 - Focus on My [Blog](https://weykon.com)
 
-- My first touch on macos development !  [link Page](https://github.com/weykon/new-man)
+- A chatGPT app on macos. My first touch on macos development !  [link Page](https://github.com/weykon/new-man)
 	
 	<img width=200px height=300px src="https://raw.githubusercontent.com/weykon/new-man/main/preview.gif"></img>
 
