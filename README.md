@@ -67,7 +67,6 @@
 ![VSCode](http://img.shields.io/badge/-VisualStudioCode-orange?style=flat-square&logo=VisualStudioCode&logoColor=5AAEAF)
 ![Maya](http://img.shields.io/badge/-Maya-48A0A3?style=flat-square&logo=Maya&logoColor=5AAEAF)
 ![Blender](http://img.shields.io/badge/-Blender-orange?style=flat-square&logo=Blender&logoColor=5AAEAF)
-![Rider](http://img.shields.io/badge/-Rider-48A0A3?style=flat-square&logo=Rider&logoColor=5AAEAF)
 
 
 ![React-Native](http://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=reactnative&logoColor=5AAEAF) 
