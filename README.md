@@ -48,7 +48,7 @@
 
 - Focus on English and Painting.
 
-| App | |
+| Open Source App | Preview |
 | :--: | :--: | 
 | A chatGPT app on macos. My first touch on macos development !  [link Page](https://github.com/weykon/new-man) | <img width=200px height=300px src="https://raw.githubusercontent.com/weykon/new-man/main/preview.gif"></img> |
 | A tauri app of clean rust workspace target directory. | ![](https://user-images.githubusercontent.com/36456814/213898833-5516c782-fd57-4017-bea1-18fa5ebf14a5.gif) |
