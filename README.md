@@ -31,5 +31,8 @@ Let's do it.
 
 I'm still confused in all the staff.
 
-As a week pass, I started Machine Learning study on https://github.com/weykon/data-science-N-machine-learning
-And Graphics in Rust anything I found on https://github.com/weykon/computer-graphics-kindergarten
+As a week pass, I started Machine Learning study on https://github.com/weykon/data-science-N-machine-learning  
+
+And Graphics in Rust anything I found on https://github.com/weykon/computer-graphics-kindergarten  
+ 
+Rust Basic https://github.com/weykon/rust_learn
