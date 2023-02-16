@@ -36,3 +36,5 @@ I started Machine Learning study on https://github.com/weykon/data-science-N-mac
 And Graphics in Rust anything I found on https://github.com/weykon/computer-graphics-kindergarten  
  
 Rust Basic https://github.com/weykon/rust_learn
+
+roll in algorithm <img width="250px" src="https://leetcard.jacoblin.cool/weykon?theme=nord&font=PT%20Mono&ext=activity&site=cn&animation=true" />
