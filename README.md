@@ -4,10 +4,7 @@
 
 # Previous Profile [CLICK](./README-2022.md)
 
---- 
-
-(There I will write incessancy...)
-
+---  
 
 This Readme will build from github action
 
