@@ -26,7 +26,7 @@ Let's do it.
 
 ---
 
-I'm still confused in all the staff.
+I'm still confused in all the stuff.
 
 I started Machine Learning study on https://github.com/weykon/data-science-N-machine-learning  
 
