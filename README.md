@@ -34,4 +34,11 @@ And Graphics in Rust anything I found on https://github.com/weykon/computer-grap
  
 Rust Basic https://github.com/weykon/rust_learn
 
-roll in algorithm <img width="250px" src="https://leetcard.jacoblin.cool/weykon?theme=nord&font=PT%20Mono&ext=activity&site=cn&animation=true" />
+Leetcode Algorithm pratice <img width="250px" src="https://leetcard.jacoblin.cool/weykon?theme=nord&font=PT%20Mono&ext=activity&site=cn&animation=true" />
+
+## Rently Open Source
+| npm package | downloads |
+| --------|---------|
+| [i-like-tsup](https://github.com/weykon/i-like-tsup) | [![npm page](https://img.shields.io/npm/dy/i-like-tsup?color=green)](https://www.npmjs.com/package/i-like-tsup) |
+| [@weykon/gpt-ts](https://www.npmjs.com/package/@weykon/gpt-ts) | [![npm page](https://img.shields.io/npm/dy/@weykon/gpt-ts?color=green)](https://www.npmjs.com/package/@weykon/gpt-ts) |  
+
