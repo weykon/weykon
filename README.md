@@ -34,7 +34,9 @@ And Graphics in Rust anything I found on https://github.com/weykon/computer-grap
  
 Rust Basic https://github.com/weykon/rust_learn
 
-Leetcode Algorithm pratice <img width="250px" src="https://leetcard.jacoblin.cool/weykon?theme=nord&font=PT%20Mono&ext=activity&site=cn&animation=true" />
+| Leetcode Algorithm pratice |
+|---|
+| <img width="250px" src="https://leetcard.jacoblin.cool/weykon?theme=nord&font=PT%20Mono&ext=activity&site=cn&animation=true" /> |
 
 ## Rently Open Source
 | npm package | downloads |
