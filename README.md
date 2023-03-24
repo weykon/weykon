@@ -44,3 +44,9 @@ Rust Basic https://github.com/weykon/rust_learn
 | [i-like-tsup](https://github.com/weykon/i-like-tsup) | [![npm page](https://img.shields.io/npm/dy/i-like-tsup?color=green)](https://www.npmjs.com/package/i-like-tsup) |
 | [@weykon/gpt-ts](https://www.npmjs.com/package/@weykon/gpt-ts) | [![npm page](https://img.shields.io/npm/dy/@weykon/gpt-ts?color=green)](https://www.npmjs.com/package/@weykon/gpt-ts) |  
 | [New Man macOS-app](https://github.com/weykon/new-man) | [![release-page](https://img.shields.io/github/downloads/weykon/new-man/total?label=total%20download)](https://github.com/weykon/new-man/releases) |
+
+## Support Me !
+| Ko-Fi | WeChat |
+| :-----: | :------: |
+| [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2HHW3R) | <img width="100px" src="./wechat_receive_qrcode.jpg"/> |
+| Global | Chinese |
