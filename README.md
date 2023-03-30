@@ -44,6 +44,8 @@ Rust Basic https://github.com/weykon/rust_learn
 | [i-like-tsup](https://github.com/weykon/i-like-tsup) | [![npm page](https://img.shields.io/npm/dy/i-like-tsup?color=green)](https://www.npmjs.com/package/i-like-tsup) |
 | [@weykon/gpt-ts](https://www.npmjs.com/package/@weykon/gpt-ts) | [![npm page](https://img.shields.io/npm/dy/@weykon/gpt-ts?color=green)](https://www.npmjs.com/package/@weykon/gpt-ts) |  
 | [New Man macOS-app](https://github.com/weykon/new-man) | [![release-page](https://img.shields.io/github/downloads/weykon/new-man/total?label=total%20download)](https://github.com/weykon/new-man/releases) |
+| [ai-say](https://www.npmjs.com/package/ai-say) | ![](https://img.shields.io/npm/dt/ai-say) |
+
 
 ## Support Me !
 | Ko-Fi | WeChat |
