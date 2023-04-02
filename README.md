@@ -46,6 +46,9 @@ Rust Basic https://github.com/weykon/rust_learn
 | [New Man macOS-app](https://github.com/weykon/new-man) | [![release-page](https://img.shields.io/github/downloads/weykon/new-man/total?label=total%20download)](https://github.com/weykon/new-man/releases) |
 | [ai-say](https://www.npmjs.com/package/ai-say) | ![](https://img.shields.io/npm/dt/ai-say) |
 
+## For temporary Addition about AI Prompt
+Recently, I've been focused on AI development, specifically developing my Prompt system, exploring the programmability of minimal GPT prompts, and researching the application of TypeScript's type system grammar to AI prompt writing.
+if you interest it, contect to me !
 
 ## Support Me !
 | Ko-Fi | WeChat |
