@@ -54,4 +54,4 @@ if you interest it, contect to me !
 | Ko-Fi | WeChat |
 | :-----: | :------: |
 | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2HHW3R) | <img width="100px" src="./wechat_receive_qrcode.jpg"/> |
-| Global | Chinese |
+| Global | Chinese(请备注) |
