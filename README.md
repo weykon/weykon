@@ -48,7 +48,7 @@ Rust Basic https://github.com/weykon/rust_learn
 
 ## For temporary Addition about AI Prompt
 Recently, I've been focused on AI development, specifically developing my Prompt system, exploring the programmability of minimal GPT prompts, and researching the application of TypeScript's type system grammar to AI prompt writing.
-if you interest it, contect to me !
+if you interest it, contact to me !
 
 ## Support Me !
 | Ko-Fi | WeChat |
