@@ -2,7 +2,7 @@ Welcome!
 
 I'm multilingual full-stack developer.
 
-I use rust, elixir, typescript, haskell, swift, C#.
+I use rust, elixir, typescript, haskell, swift, C#, Java.
 
 I have been thinking a lot lately and have come to some realizations.
 
