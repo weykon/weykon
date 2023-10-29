@@ -13,8 +13,7 @@ I have been thinking a lot lately and have come to some realizations.
 [readme-2022.md](https://github.com/weykon/weykon/blob/main/README-2022.md)  
 [readme-2023-spring.md](https://github.com/weykon/weykon/blob/main/README-2023-05.md)
 
-## Recently
-I learn typescript complier.
+<h2>The more I know, the more I realize the extent of the unknown.</h2>
 
 ## My stacks
 
