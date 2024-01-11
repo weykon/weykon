@@ -8,6 +8,8 @@ I have been thinking a lot lately and have come to some realizations.
 
 /full stack (primary at front)/aigc delevoper/
 
+<b>Favor getting things done rather than the perfect design that will never ship.</b>
+
 --- 
 
 [readme-2022.md](https://github.com/weykon/weykon/blob/main/README-2022.md)  
