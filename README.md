@@ -7,6 +7,8 @@ I'm multilingual full-stack developer.
 <b> The recent focus is on front-end visual design and back-end practices and linux, among other things. </b>
 
 <b> Intermediate to advanced level in ComfyUI </b>
+
+
 --- 
 
 [readme-2022.md](https://github.com/weykon/weykon/blob/main/README-2022.md)  
